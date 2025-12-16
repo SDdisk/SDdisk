@@ -1,4 +1,4 @@
-# My dream is to become a backend-developer.
+# My dream is to become a backend-developer
 
 However, I keep running into obstacles: <br>
  - a tough job market, 
